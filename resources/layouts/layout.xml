@@ -1,0 +1,6 @@
+<layout id="WatchFace">
+    <label id="Date"            x="center" y="5%"    font="Graphics.FONT_TINY"           justification="Graphics.TEXT_JUSTIFY_CENTER" />
+    <label id="Hours" x="center" y="36%" font="Graphics.FONT_LARGE" justification="Graphics.TEXT_JUSTIFY_CENTER" />
+    <label id="Minutes" x="center" y="48%" font="Graphics.FONT_LARGE" justification="Graphics.TEXT_JUSTIFY_CENTER" />
+    <label id="Battery"         x="center" y="86%"    font="Graphics.FONT_TINY"           justification="Graphics.TEXT_JUSTIFY_CENTER" />
+</layout>

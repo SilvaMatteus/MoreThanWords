@@ -1,0 +1,5 @@
+build/
+
+bin/
+resources/strings/openweatherkey.xml
+resources/strings/weather.xml
